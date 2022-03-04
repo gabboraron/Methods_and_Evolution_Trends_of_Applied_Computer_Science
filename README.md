@@ -1,0 +1,2 @@
+# Methods_and_Evolution_Trends_of_Applied_Computer_Science
+Methods and Evolution Trends of Applied Computer Science
