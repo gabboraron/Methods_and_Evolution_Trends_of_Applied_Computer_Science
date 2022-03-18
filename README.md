@@ -52,4 +52,37 @@ Use the Functional features table template to:
 - Fill a functional features (FFs) table and design an initial TFM. (You can choose any appropriate tool for the TFM creation, e.g. Visio, draw.io, Word, etc.)
 - Submit the refined description, FFs table and initial TFM before the next class.  
 
+## class 6 - trends in model-driven software development - solution domain design and validation
+- model driven enviroment (MDE)
+  - model driven development (MDD) 
+    - model driven architecture (MDA)
 
+[Jon Whittle, John Hutchinson, and Mark Rouncefield. The State of Practice in Model-Driven Engineering](https://ieeexplore.ieee.org/document/6507223)
+
+human factor is also a favour who benefits in MDE
+
+### Psyhology of MDE
+- managers
+- software archiects
+- code gurus
+- hobbyist dev
+
+### MDE adoption Issues
+- organization factors
+  - business domains
+  - geenric software deveelopment
+- MDE approaches Training issues
+  - learning of abstraction
+  - software modelling practice
+
+### MDE in research VS industry
+In practice developers rarely use MDE to generate whole systems – they apply it to develop key parts of a system.
+- MDE is necessary, but not sufficient!
+
+### Mapping Solution Domain Functional Requirements to Problem Domain Functional Features
+![topological class diagram refine abstract](https://www.researchgate.net/profile/Janis-Osis-2/publication/226537727/figure/fig7/AS:858954385080324@1581802092330/The-process-of-the-development-of-the-topological-class-diagram_W640.jpg)
+
+### Extended Tuple Functional Feature of a System
+**<Id, A , R, O, PreCond, PostCond, Pr, Ex, S, Cl, Op>**,
+- **Cl** is a class (type of object O) which will represent system in static model the object which will contain operation for functionality defined by this functional feature (can be fulfilled when the class diagram is synthesized)
+- **Op** is an operation which will contain functionality defined by functional feature (this parameter can be fulfilled when the class diagram is synthesized)
