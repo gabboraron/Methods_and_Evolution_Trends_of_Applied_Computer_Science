@@ -8,6 +8,43 @@
 > - More than one-month late submission and/or violation of academic integrity* decreases the assignment grade potentially down to failed.
 > - During the semester, the progress will be reflected in the Grades section of the course.
 
+## class 1 - State of art in applied computer science
+<img src="https://cloudnine.com/wp-content/uploads/2020/03/2019-2020InternetMinute.png" width="60%"> <img src="http://cdn.statcdn.com/Infographic/images/normal/25443.jpeg" width="30%"> 
+
+hot topics in IT:
+- open-source
+- cloud
+- IoT
+- AI
+- ML
+- VR
+- cryptocurrencies
+- cybersecurity
+
+State of Software Development:
+- v1.0 - 1969
+- v2.0 - 2010 - *"Software is eating the world, and also eating itself"* <- the real problem is that a world running on bnuggy softwarre.
+  - [Can We Really Achieve Software Quality? - Ipek Ozkaya](https://www.computer.org/csdl/magazine/so/2021/03/09407296/1sVENKRscVi)
+
+what we learned from covid pandemic:
+- Efficiency: Short-term optimization
+- Resilience: Long-term optimization
+
+What Software is Really About?
+- People vs. Processes
+- Science vs. Art (Engineering vs.Craftsmanship)
+- Documenting vs. Understanding
+- Metrics vs. Skills vs. Methods
+- Good Enough vs. Right and Wrong
+
+*"Scientific thinking evolved as a means of understanding the world."* Grady Booch
+
+*"There is nothing more practical as a good theory."* - Boltzmann 
+
+![we are to busy to improve](https://hakanforss.files.wordpress.com/2014/03/are-you-too-busy-to-improve2.png)
+
+
+
 ## class 4 - 
 ## class 5
 Use the Functional features table template to:
