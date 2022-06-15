@@ -86,3 +86,25 @@ In practice developers rarely use MDE to generate whole systems – they apply i
 **<Id, A , R, O, PreCond, PostCond, Pr, Ex, S, Cl, Op>**,
 - **Cl** is a class (type of object O) which will represent system in static model the object which will contain operation for functionality defined by this functional feature (can be fulfilled when the class diagram is synthesized)
 - **Op** is an operation which will contain functionality defined by functional feature (this parameter can be fulfilled when the class diagram is synthesized)
+
+## importance of modelling
+Additional reading:
+1. Osis, J., Asņina, Ē. Is Modeling a Treatment for the Weakness of Software Engineering?, http://www.igi-global.com/gateway/chapter/49151
+2. Nazaruka, Ē., Osis, J. Determination of Natural Language Processing Tasks and Tools for Topological Functioning Modelling. In: Proceedings of the ENASE 2018. Portugal: SCITEPRESS – Science and Technology Publications, Lda., 2018, pp.501-512. ISBN 978-989-758-300-1. DOI: 10.5220/0006817205010512 https://www.scitepress.org/papers/2018/68172/index.html
+3. Osis, J., Asņina, Ē. Topological Modeling for Model-Driven Domain Analysis and Software Development: Functions and Architectures. http://www.igi-global.com/gateway/chapter/49152
+4. Osis, J. Asņina, Ē. A Business Model to Make Software Development Less Intuitive, 2008. DOI: 10.1109/CIMCA.2008.52
+5. Osis, J., Asņina, Ē., Grāve, A. Formal Computation Independent Model of the Problem Domain within the MDA. MARQ, 2007, pp. 47-54. http://ceur-ws.org/Vol-252/paper06.pdf
+6. Doniņš, U. Software Development with the Emphasis on Topology. In: Advances in Databases and Information Systems, Vol.5968. Springer, 2010. pp. 220-228.
+7. Osis, J. What is the Precise Relationship between Domain Modelling and Architectural Design and Modelling? Proc. Of ECOOP Workshop, 2001. pp. 9-12.
+8. Jones, C. Positive and Negative Innovations in Software Engineering. International Journal of Software Science and Computational Intelligence, 1 (2), 2009, pp. 20-30.
+9. Я. Я. Осис. Топологическая модель функционирования систем. Автоматика и вычислительная техника. АН Латв. CCР, № 6, 1969, с. 44-50. (in Russian) 
+
+literature:
+- [Janis Osis, Erika Asnina - Model-Driven Domain Analysis and Software Development: Architectures and Functions](https://www.igi-global.com/book/model-driven-domain-analysis-software/45962)
+- [Nazaruka, Osis- The Formal Reference Model for Software Requirements](https://link.springer.com/chapter/10.1007/978-3-030-22559-9_16#Sec6)
+
+
+
+
+
+
